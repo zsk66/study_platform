@@ -1,4 +1,4 @@
-# 🎓 Auto Resume Video - 学习平台专用（Chrome 扩展）
+# 🎓 Auto Resume Video - 学习平台/学习公社专用（Chrome 扩展）
 
 一个轻量级的 Chrome 扩展，用于提升在线学习网站（[study.enaea.edu.cn](https://study.enaea.edu.cn)）的使用体验。  
 它能自动保持视频播放不中断、屏蔽干扰弹窗，让学习更加专注高效。
